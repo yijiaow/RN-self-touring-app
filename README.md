@@ -1,1 +1,0 @@
-# RN-self-touring-app
